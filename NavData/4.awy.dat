@@ -1,0 +1,19 @@
+I
+640 Version - data cycle 2013.10, build 20131334, metadata AwyXP700.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+AXEBO -13.529444  032.816667 CP    -13.563333  032.583333 1 120 245 406F
+BAMES  48.975277  001.486111 EVX    49.031694  001.220861 1 150 195 4E72
+BAMES  48.975277  001.486111 PON    49.096083  002.035889 1 150 195 4E72
+BESHO -12.001635  027.832104 TOBAN -12.353333  028.126667 1 050 075 406F-A406F
+BNA    32.125000  020.253333 LAB    32.786944  021.965833 1 070 600 4E01
+CP    -13.563333  032.583333 VMF   -13.260000  031.915000 1 075 115 406F
+GLIDA  41.580083  019.176861 TR     41.463231  019.714144 1 110 210 4E154
+LAB    32.786944  021.965833 NASER  31.853333  023.921667 1 070 600 4E01
+SENGI -13.138333  030.308333 VMF50 -13.209322  031.062267 1 075 245 406F
+SENGI -13.138333  030.308333 VND10 -13.054167  029.518333 1 120 245 406F
+TOBAN -12.353333  028.126667 VND   -12.998333  028.666667 1 075 245 406F
+VMF   -13.260000  031.915000 VMF50 -13.209322  031.062267 1 075 245 406F
+VND   -12.998333  028.666667 VND10 -13.054167  029.518333 1 075 115 406F
+BNA    32.125000  020.253333 LAB    32.786944  021.965833 2 070 600 4E01
+LAB    32.786944  021.965833 NASER  31.853333  023.921667 2 070 600 4E01
+99

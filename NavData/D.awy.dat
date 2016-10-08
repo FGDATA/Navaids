@@ -1,0 +1,14 @@
+I
+640 Version - data cycle 2013.10, build 20131334, metadata AwyXP700.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+BERIS  54.073333  028.910000 DEDOK  54.035000  029.303333 1 050 150 DOM82
+BERIS  54.073333  028.910000 MNS    53.885000  028.021667 1 050 150 DOM82-M863
+DEDOK  54.035000  029.303333 UMOO   53.955000  030.096667 1 050 150 DOM82
+GOL    52.520000  031.051667 MAMIN  52.958333  030.938333 1 050 150 DOM83-M856
+GRINA  53.021667  024.153333 NELIM  52.943333  024.165000 1 090 150 DOM84
+GRINA  53.021667  024.153333 NIMAN  53.650000  024.053333 1 050 150 DOM84
+KUSIP  52.123333  023.900000 SURUG  52.560000  024.223333 1 050 150 DOM84
+MAMIN  52.958333  030.938333 SLEDA  53.551667  030.435000 1 050 150 DOM83
+NELIM  52.943333  024.165000 SURUG  52.560000  024.223333 1 090 150 DOM84
+SLEDA  53.551667  030.435000 UMOO   53.955000  030.096667 1 050 150 DOM83
+99
