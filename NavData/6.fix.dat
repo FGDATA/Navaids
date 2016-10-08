@@ -1,14 +1,12 @@
 I
 600 Version - data cycle 2013.10, build 20131334, metadata FixXP700.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com). This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
 
- 60.000000 -110.000000 60N10
  60.000000 -020.000000 60N20
  60.000000 -030.000000 60N30
  60.000000 -040.000000 60N40
  60.000000 -050.000000 60N50
  60.000000 -060.000000 60N60
  61.000000 -040.000000 6140N
- 61.000000 -110.000000 61N10
  61.000000 -020.000000 61N20
  61.000000 -030.000000 61N30
  61.000000 -040.000000 61N40
@@ -20,7 +18,6 @@ I
  62.000000 -050.000000 62N50
  62.000000 -060.000000 62N60
  63.000000 -030.000000 6330N
- 63.000000 -100.000000 63N00
  63.000000 -030.000000 63N30
  63.000000 -040.000000 63N40
  63.000000 -050.000000 63N50
@@ -30,12 +27,7 @@ I
  64.000000 -040.000000 64N40
  64.000000 -050.000000 64N50
  64.000000 -060.000000 64N60
- 66.000000 -090.000000 6690N
  65.248244 -089.999331 66YBK
- 67.000000 -090.000000 6790N
  68.000000 -060.000000 6860N
- 69.000000 -110.000000 69N10
  57.704159 -088.341547 69YEK
- 61.500000 -100.000000 6N100
- 64.500000 -100.000000 6N400
 99

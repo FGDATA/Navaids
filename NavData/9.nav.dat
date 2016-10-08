@@ -2,13 +2,13 @@
 810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
 
 2  48.55750000 -078.24305556      0   291  50    0.0 9Q   AMOS NDB
-2  50.63222200 -111.92166700   2499   227  25    0.0 9X   BROOKS NDB-DME
+2  50.63222200 -111.92166700   2499   227  25    0.0 9X   BROOKS NDB/DME
 2  51.62777800 -111.90083300   2738   221  25    0.0 9A   HANNA NDB
 2  53.57388889 -076.20055556      0   235  50    0.0 9H   LA GRANDE-3 NDB
 2  49.52333300 -113.99861100      0   311  25    0.0 9Y   PINCHER CREEK NDB
 2  51.78000000 -114.68333300   3656   405  50    0.0 9G   SUNDRE NDB
-2  54.14305600 -113.74805600   2230   236  25    0.0 9Z   WESTLOCK NDB-DME
-13  50.63222200 -111.92166700   2499 10980  25    0.0 9X   BROOKS NDB-DME
+2  54.14305600 -113.74805600   2230   236  25    0.0 9Z   WESTLOCK NDB/DME
+13  50.63222200 -111.92166700   2499 10980  25    0.0 9X   BROOKS NDB/DME
 13  49.83555600 -124.49916700    425 10930  25    0.0 9S   POWELL RIVER BC DME
-13  54.14305600 -113.74916700   2230 10880  25    0.0 9Z   WESTLOCK NDB-DME
+13  54.14305600 -113.74805600   2230 10880  25    0.0 9Z   WESTLOCK NDB/DME
 99

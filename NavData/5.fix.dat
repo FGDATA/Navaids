@@ -2,7 +2,6 @@ I
 600 Version - data cycle 2013.10, build 20131334, metadata FixXP700.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com). This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
 
  50.000000 -050.000000 5050N
- 23.235561 -155.689364 50MKK
  50.000000 -015.000000 50N15
  50.000000 -020.000000 50N20
  50.000000 -030.000000 50N30
@@ -33,7 +32,6 @@ I
  54.000000 -040.000000 54N40
  54.000000 -050.000000 54N50
 -55.000000 -005.000000 5505W
- 55.000000 -095.000000 5595N
  55.000000 -015.000000 55N15
  55.000000 -020.000000 55N20
  55.000000 -030.000000 55N30
@@ -53,7 +51,6 @@ I
  57.000000 -060.000000 57N60
  26.482222  030.328333 57SML
  58.000000 -050.000000 5850N
- 58.000000 -090.000000 5890N
  58.000000 -015.000000 58N15
  58.000000 -020.000000 58N20
  58.000000 -030.000000 58N30
