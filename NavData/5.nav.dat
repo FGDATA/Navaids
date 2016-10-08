@@ -1,0 +1,18 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+2  52.07444400 -111.44833300   2595   328  75    0.0 5J   CORONATION NDB
+2  61.66472200 -073.29194400   1888   233  50    0.0 5L   DONALDSON NDB
+2  51.50250000 -112.75083300   2625   395  50    0.0 5V   DRUMHELLER NDB-DME
+2  54.56000000 -071.17111111      0   239  50    0.0 5Q   FONTANGES NDB
+2  58.40250000 -115.95111100    836   261  25    0.0 5U   FORT VERMILION NDB-DME
+2  54.37944400 -116.76000000   2841   353  25    0.0 5F   FOX CREEK NDB-DME
+2  54.84186100 -094.06911100    676   350  25    0.0 5O   GODS RIVER NDB
+2  56.51166700 -099.98388900    959   226  50    0.0 5W   LEAF RAPIDS NDB
+2  49.83722200 -114.88444400   3800   400  50    0.0 5M   SPARWOOD NDB
+2  46.39694444 -063.88166667      0   254  50    0.0 5B   SUMMERSIDE NDB
+2  45.61213889 -062.62480556      0   338  50    0.0 5Y   TRENTON NDB
+13  51.50166700 -112.75083300   2625 11000  50    0.0 5V   DRUMHELLER NDB-DME
+13  58.40333300 -115.94583300    836 10880  25    0.0 5U   FORT VERMILION NDB-DME
+13  54.37944400 -116.76000000   2841 11000  25    0.0 5F   FOX CREEK NDB-DME
+99

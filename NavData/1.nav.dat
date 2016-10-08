@@ -1,0 +1,15 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+2  47.63058333 -065.74458333      0   363  50    0.0 1F   BATHURST NDB
+2  53.46672200 -055.78736700      0   349  25    0.0 1E   BLACK TICKLE NDB
+2  52.77504700 -056.12403300    209   346  25    0.0 1D   CHARLOTTETOWN NDB
+2  54.03166667 -132.12722222      0   278  50    0.0 1U   MASSET NDB
+2  60.31888900 -103.12944400      0   350  25    0.0 1S   NORTH OF SIXTY NDB
+2  43.93055556 -060.02277778      0   277  50    0.0 1B   SABLE ISLAND NDB
+2  55.54333300 -102.27555600   1000   412  50    0.0 1W   SANDY BAY NDB
+2  52.55888900 -055.78222200     70   373  50    0.0 1A   WILLIAMS HARBOUR NDB
+2  59.02333300 -118.84305600      0   227  50    0.0 1K   ZAMA LAKE NDB
+13  53.31333300 -110.08000000   2210 11070  99    0.0 1T   LLOYDMINSTER DME
+13  49.05722200 -123.87166700     83 11145  25    0.0 1CD  NANAIMO DME
+99

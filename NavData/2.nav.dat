@@ -1,0 +1,20 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright (c) 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+2  53.03222200 -112.81333300   2426   405  50    0.0 2K   CAMROSE NDB
+2  64.51000000 -110.30666700      0   382  25    0.0 2Z   DIAVIK NDB
+2  49.01750000 -118.42361111      0   250  50    0.0 2J   GRAND FORKS NDB
+2  55.39555600 -116.48444400   2005   406  25    0.0 2S   HIGH PRAIRIE NDB-DME
+2  49.03722200 -077.02083300      0   261  25    0.0 2H   LEBEL SUR QUEVILLON NDB
+2  55.30516667 -123.13733333      0   284  50    0.0 2U   MACKENZIE NDB
+2  46.60250000 -075.47066667      0   373  50    0.0 2Q   MONT-LAURIER NDB
+2  52.60305556 -090.37444444      0   393  50    0.0 2M   OPAPIMISKAN LAKE NDB
+2  47.71500000 -064.88583333      0   329  50    0.0 2T   POKEMOUCHE NDB
+2  56.79389400 -098.90433300    974   300  25    0.0 2A   SOUTH INDIAN LAKE NDB
+2  49.49000000 -056.18472200    250   364  50    0.0 2B   SPRINGDALE NDB
+5  40.03460600 -079.02328100   2272 10870  18     236.086 ISOZ 2G9  25  LOC
+13  47.63138900 -065.74444400    191 11440  25    0.0 2F   BATHURST DME
+13  53.03277800 -112.81444400   2449 10820  25    0.0 2K   CAMROSE DME
+13  64.50833300 -110.30666700   1413 11125  25    0.0 2Z   DIAVIK DME
+13  55.39583300 -116.48166700   2005 11020  25    0.0 2S   HIGH PRAIRIE NDB-DME
+99
