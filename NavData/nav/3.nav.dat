@@ -1,21 +1,15 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  44.70138889 -075.70000000      0   391  50    0.0 3B   BROCKVILLE NDB
-2  58.36027800 -109.52500000      0   243  50    0.0 3X   CLUFF LAKE NDB
-2  52.02277800 -110.74555600   2499   276  50    0.0 3H   CONSORT NDB
-2  53.95722200 -102.29722200    877   398  50    0.0 3D   CUMBERLAND HOUSE NDB
-2  55.71055600 -117.09972200   1949   234  25    0.0 3Y   DONNELLY NDB/DME
-2  53.26751700 -114.95686000   2785   385  25    0.0 3M   DRAYTON VALLEY INDUSTRIAL NDB/DME
-2  45.51902778 -075.56425000      0   414  50    0.0 3U   GATINEAU NDB
-2  55.48388900 -107.93083300   1394   384  50    0.0 3F   ILE-A-LA-CROSSE NDB
-2  58.79833300 -121.34500000      0   397  50    0.0 3I   MOBIL SIERRA NDB
-2  58.23694400 -132.19555600      0   242  50    0.0 3P   MUDDY LAKE NDB
-2  54.90750000 -059.79694400    193   366  50    0.0 3R   POSTVILLE NDB
-2  50.76416700 -101.29638900   1825   263  25    0.0 3Z   RUSSELL NDB
-2  49.82583300 -112.17805600   2648   388  25    0.0 3Z   TABER NDB/DME
-2  49.69640000 -103.80357500   1963   298  50    0.0 3N   WEYBURN NDB
-13  55.71055600 -117.09972200   1949 10820  25    0.0 3Y   DONNELLY NDB/DME
-13  53.26751700 -114.95686000   2785 11060  25    0.0 3M   DRAYTON VALLEY INDUSTRIAL NDB/DME
-13  49.82583300 -112.17805600   2648 11100  25    0.0 3Z   TABER NDB/DME
+ 2  44.701388889  -75.700000000        0      391    50      0.000   3B ENRT CY BROCKVILLE NDB
+ 2  53.957222222 -102.297222222        0      398    50      0.000   3D ENRT CY CUMBERLAND HOUSE NDB
+ 2  55.483888889 -107.930833333        0      384    50      0.000   3F ENRT CY ILE-A-LA CROSSE NDB
+ 2  52.022777778 -110.745555556        0      276    50      0.000   3H ENRT CY CONSORT NDB
+ 2  53.267430556 -114.957027778        0      385    25      0.000   3M ENRT CY DRAYTON VALLEY NDB
+ 2  49.696400000 -103.803575000        0      298    50      0.000   3N ENRT CY WEYBURN NDB
+ 2  54.907475000  -59.795263889        0      366    25      0.000   3R ENRT CY POSTVILLE NDB
+ 2  45.519038889  -75.564244444        0      414    50      0.000   3U ENRT CY GATINEAU NDB
+ 2  50.764166667 -101.296388889        0      263    25      0.000   3Z CJW5 CY RUSSELL NDB
+ 5  33.594222222  -83.147477778        0    11090    25    243.986 IVVM  3J7 K7 25 LOC
+12  33.594841667  -83.147836111      692    11090    25      0.000 IVVM  3J7 K7 GREENE CO REGL DME-ILS
 99

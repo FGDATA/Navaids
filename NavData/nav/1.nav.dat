@@ -1,15 +1,13 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  47.63058333 -065.74458333      0   363  50    0.0 1F   BATHURST NDB
-2  53.46672200 -055.78736700      0   349  25    0.0 1E   BLACK TICKLE NDB
-2  52.77504700 -056.12403300    209   346  25    0.0 1D   CHARLOTTETOWN NDB
-2  54.03166667 -132.12722222      0   278  50    0.0 1U   MASSET NDB
-2  60.31888900 -103.12944400      0   350  25    0.0 1S   NORTH OF SIXTY NDB
-2  43.93055556 -060.02277778      0   277  50    0.0 1B   SABLE ISLAND NDB
-2  55.54333300 -102.27555600   1000   412  50    0.0 1W   SANDY BAY NDB
-2  52.55888900 -055.78222200     70   373  50    0.0 1A   WILLIAMS HARBOUR NDB
-2  59.02333300 -118.84305600      0   227  50    0.0 1K   ZAMA LAKE NDB
-13  53.31333300 -110.08000000   2210 11070  99    0.0 1T   LLOYDMINSTER DME
-13  49.05722200 -123.87166700     83 11145  25    0.0 1CD  NANAIMO DME
+ 2  52.559377778  -55.781916667        0      373    25      0.000   1A ENRT CY WILLIAMS HARBOUR NDB
+ 2  43.930555556  -60.022777778        0      277    50      0.000   1B ENRT CY SABLE ISLAND NDB
+ 2  52.775411111  -56.125961111        0      346    25      0.000   1D ENRT CY CHARLOTTETOWN NDB
+ 2  53.467127778  -55.788663889        0      349    50      0.000   1E ENRT CY BLACK TICKLE NDB
+ 2  47.630583333  -65.744591667        0      363    50      0.000   1F ENRT CY BATHURST NDB
+ 2  54.031666667 -132.127222222        0      278    50      0.000   1U ENRT CY MASSET NDB
+ 2  56.159722222 -113.472222222        0      311    25      0.000   1N CFT8 CY PELICAN NDB
+ 2  55.542291667 -102.275850000        0      412    25      0.000   1W CJY4 CY SANDY BAY NDB
+ 2  57.280661111 -110.972233333        0      400    25      0.000   1L CYFI CY FORT MACKAY/FIREBAG NDB
 99

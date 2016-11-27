@@ -1,20 +1,14 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  53.03222200 -112.81333300   2426   405  50    0.0 2K   CAMROSE NDB/DME
-2  64.51000000 -110.30666700      0   382  25    0.0 2Z   DIAVIK NDB/DME
-2  49.01750000 -118.42361111      0   250  50    0.0 2J   GRAND FORKS NDB
-2  55.39555600 -116.48444400   2005   406  25    0.0 2S   HIGH PRAIRIE NDB/DME
-2  49.03722200 -077.02083300      0   261  25    0.0 2H   LEBEL SUR QUEVILLON NDB
-2  55.30516667 -123.13733333      0   284  50    0.0 2U   MACKENZIE NDB
-2  46.60250000 -075.47066667      0   373  50    0.0 2Q   MONT-LAURIER NDB
-2  52.60305556 -090.37444444      0   393  50    0.0 2M   OPAPIMISKAN LAKE NDB
-2  47.71500000 -064.88583333      0   329  50    0.0 2T   POKEMOUCHE NDB
-2  56.79389400 -098.90433300    974   300  25    0.0 2A   SOUTH INDIAN LAKE NDB
-2  49.49000000 -056.18472200    250   364  50    0.0 2B   SPRINGDALE NDB
-5  40.03460600 -079.02328100   2271 10870  18     236.086 ISOZ 2G9  25  LOC
-13  47.63138900 -065.74444400    191 11440  25    0.0 2F   BATHURST DME
-13  53.03222200 -112.81333300   2426 10820  50    0.0 2K   CAMROSE NDB/DME
-13  64.51000000 -110.30666700      0 11125  25    0.0 2Z   DIAVIK NDB/DME
-13  55.39555600 -116.48444400   2005 11020  25    0.0 2S   HIGH PRAIRIE NDB/DME
+13  53.032777778 -112.814444444     2449    10820    40      0.000   2K ENRT CY CAMROSE DME
+ 2  56.793950000  -98.904347222        0      330    25      0.000   2A ENRT CY SOUTH INDIAN LAKE NDB
+ 2  49.490000000  -56.184722222        0      364    25      0.000   2B ENRT CY SPRINGDALE NDB
+ 2  49.017500000 -118.423611111        0      250    25      0.000   2J ENRT CY GRAND FORKS NDB
+ 2  53.032222222 -112.813333333        0      405    25      0.000   2K ENRT CY CAMROSE NDB
+ 2  46.602508333  -75.470680556        0      373    25      0.000   2Q ENRT CY MONT-LAURIER NDB
+ 2  64.509583333 -110.309861111        0      382    25      0.000   2Z ENRT CY DIAVIK NDB
+ 2  52.603055556  -90.374444444        0      393    25      0.000   2M CKM8 CY OPAPIMISKAN LAKE NDB
+ 2  49.035855556  -77.020044444        0      261    25      0.000   2H CSH4 CY LEBEL-SUR-QUEVILLON NDB
+ 5  40.034136111  -79.024197222        0    10870    25    236.089 ISOZ  2G9 K6 25 LOC
 99

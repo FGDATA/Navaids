@@ -1,13 +1,12 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  58.22833300 -103.68333300   1340   400  50    0.0 7F   COLLINS BAY NDB
-2  49.66163300 -054.24514400     97   237  50    0.0 7C   FOGO NDB
-2  52.57638900 -112.08611100   2352   261  25    0.0 7J   FORESTBURG NDB
-2  52.84777800 -102.18666700      0   337  25    0.0 7D   HUDSON BAY NDB
-2  48.70840000 -080.73593300      0   382  25    0.0 7P   IROQUOIS FALLS NDB
-2  53.32111100 -117.75500000   4026   233  25    0.0 7V   JASPER-HINTON NDB
-2  48.91063889 -079.17897222      0   405  50    0.0 7L   LA SARRE NDB
-2  47.13833300 -055.32500000     96   234  50    0.0 7H   MARYSTOWN NDB
-2  42.77083333 -081.10583333      0   375  50    0.0 7B   ST THOMAS NDB
+ 2  42.771363889  -81.105208333        0      375    50      0.000   7B ENRT CY SAINT THOMAS NDB
+ 2  49.661666667  -54.245277778        0      237    50      0.000   7C ENRT CY FOGO NDB
+ 2  52.847922222 -102.187311111        0      337    25      0.000   7D ENRT CY HUDSON BAY NDB
+ 2  58.228888889 -103.683055556        0      400    50      0.000   7F ENRT CY COLLINS BAY NDB
+ 2  47.137197222  -55.324875000        0      234    25      0.000   7H ENRT CY MARYSTOWN (WINTERLAND) NDB
+ 2  52.576388889 -112.086111111        0      261    25      0.000   7J ENRT CY FORESTBURG NDB
+ 2  61.018611111 -123.385000000        0      208    50      0.000   7N ENRT CY NAHANNI BUTTE NDB
+ 2  48.708333333  -80.736111111        0      382    50      0.000   7P ENRT CY IROQUOIS FALLS NDB
 99

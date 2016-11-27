@@ -1,4 +1,13 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
+ 4  26.908158333  -80.316761111       28    11130    25     89.996 ISYK 06FA K7 09 ILS-cat-I
+ 6  26.908975000  -80.335291667       28    11130    25 300089.996 ISYK 06FA K7 09 GS
+12  26.907580556  -80.316769444       28    11130    25      0.000 ISYK 06FA K7 GWINN DME-ILS
+ 4  48.431705556 -106.555327778     2764    11170    25    300.075 IGBE 07MT K1 28 ILS-cat-I
+ 6  48.417822222 -106.515069444     2764    11170    25 300300.075 IGBE 07MT K1 28 GS
+12  48.411094444 -106.499555556     2773    11170    25      0.000 IGBE 07MT K1 GLASGOW INDUSTRIAL DME-ILS
+ 4  48.410502778 -106.500147222     2773    10850    25    120.075 IGSG 07MT K1 10 ILS-cat-I
+ 6  48.430069444 -106.546947222     2773    10850    25 300120.075 IGSG 07MT K1 10 GS
+12  48.411094444 -106.499555556     2773    10850    25      0.000 IGSG 07MT K1 GLASGOW INDUSTRIAL DME-ILS
 99

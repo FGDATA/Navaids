@@ -1,12 +1,13 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  44.19505000 -077.30834400    320   283  25    0.0 6M   BELLEVILLE NDB
-2  58.06972200 -104.53861100      0   222  50    0.0 6Q   CIGAR LAKE NDB
-2  44.71555556 -066.80222222      0   387  50    0.0 6E   GRAND MANAN NDB
-2  56.47833300 -109.40083300   1500   410  50    0.0 6Z   LA LOCHE NDB
-2  52.52032200 -056.29515000    347   367  25    0.0 6F   PORT HOPE SIMPSON NDB
-2  50.35000000 -119.26000000      0   302  50    0.0 6K   VERNON NDB
-2  56.08833300 -096.09694400    609   339  50    0.0 6X   YORK LANDING NDB
-13  52.18116700 -113.88261100   2985 11160  25    0.0 6G   RED DEER DME
+13  52.181186111 -113.882658333     2974    11380    40      0.000   6G ENRT CY RED DEER DME
+ 2  44.715555556  -66.802222222        0      387    50      0.000   6E ENRT CY GRAND MANAN NDB
+ 2  52.520277778  -56.295000000        0      367    25      0.000   6F ENRT CY PORT HOPE SIMPSON NDB
+ 2  50.350000000 -119.260000000        0      302    50      0.000   6K ENRT CY VERNON NDB
+ 2  58.551944444 -118.918055556        0      291    25      0.000   6P ENRT CY MOBIL 1128 (RAINBOW LAKE) NDB
+ 2  58.069722222 -104.538611111        0      222    25      0.000   6Q ENRT CY CIGAR LAKE NDB
+ 2  49.484544444 -111.486119444        0      362    25      0.000   6T ENRT CY FOREMOST NDB
+ 2  56.087805556  -96.093511111        0      339    50      0.000   6X ENRT CY YORK LANDING NDB
+ 2  56.478333333 -109.400833333        0      410    50      0.000   6Z ENRT CY LA LOCHE NDB
 99

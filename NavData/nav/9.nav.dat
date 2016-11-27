@@ -1,14 +1,11 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  48.55750000 -078.24305556      0   291  50    0.0 9Q   AMOS NDB
-2  50.63222200 -111.92166700   2499   227  25    0.0 9X   BROOKS NDB/DME
-2  51.62777800 -111.90083300   2738   221  25    0.0 9A   HANNA NDB
-2  53.57388889 -076.20055556      0   235  50    0.0 9H   LA GRANDE-3 NDB
-2  49.52333300 -113.99861100      0   311  25    0.0 9Y   PINCHER CREEK NDB
-2  51.78000000 -114.68333300   3656   405  50    0.0 9G   SUNDRE NDB
-2  54.14305600 -113.74805600   2230   236  25    0.0 9Z   WESTLOCK NDB/DME
-13  50.63222200 -111.92166700   2499 10980  25    0.0 9X   BROOKS NDB/DME
-13  49.83555600 -124.49916700    425 10930  25    0.0 9S   POWELL RIVER BC DME
-13  54.14305600 -113.74805600   2230 10880  25    0.0 9Z   WESTLOCK NDB/DME
+ 2  51.627777778 -111.900833333        0      221    25      0.000   9A ENRT CY HANNA NDB
+ 2  51.780000000 -114.683333333        0      405    50      0.000   9G ENRT CY SUNDRE NDB
+ 2  53.573916667  -76.200472222        0      235    50      0.000   9H ENRT CY LA GRANDE 3 NDB
+ 2  48.557500000  -78.243055556        0      291    25      0.000   9Q ENRT CY AMOS NDB
+ 2  50.632222222 -111.921666667        0      227    25      0.000   9X ENRT CY BROOKS NDB
+ 2  49.523333333 -113.998611111        0      311    25      0.000   9Y ENRT CY PINCHER CREEK NDB
+13  49.835555556 -124.499166667      455    10930    25      0.000   9S ENRT CY POWELL RIVER DME-ILS
 99

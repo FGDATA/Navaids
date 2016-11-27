@@ -1,25 +1,13 @@
 I
-810 Version - data cycle 201610, build 20161559, metadata NavXP810.  Copyright (c) 2016, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+1100 Version - data cycle 1611, build 20161011, metadata NavXP1100. Copyright (c) 2016 Navigraph. License: GPL+2
 
-2  57.88611100 -101.67666700   1136   347  50    0.0 4Q   BROCHET NDB
-2  42.31222222 -082.07777778      0   236  50    0.0 4L   CHATHAM-KENT NDB
-2  54.61083300 -097.76638900    709   353  50    0.0 4G   CROSS LAKE NDB
-2  59.42138889 -120.78944444      0   364  50    0.0 4D   HELMUT NDB
-2  56.03750000 -096.51277800    600   391  25    0.0 4W   KELSEY NDB
-2  57.25416700 -105.62222200   1670   376  50    0.0 4Y   KEY LAKE NDB
-2  54.88333300 -094.80000000      0   314  25    0.0 4J   KNEE LAKE NDB
-2  64.69805600 -110.60916700   1540   350  50    0.0 4A   KOALA NDB/DME
-2  58.61827800 -101.47038900   1257   371  25    0.0 4V   LAC BROCHET NDB
-2  50.29027200 -096.01415000    850   386  50    0.0 4X   LAC DU BONNET NDB
-2  52.04417200 -095.46190800   1005   280  50    0.0 4B   LITTLE GRAND RAPIDS NDB
-2  54.92861100 -095.28250000    688   386  50    0.0 4N   OXFORD HOUSE NDB
-2  58.26916700 -104.08000000   1620   368  50    0.0 4H   POINTS NORTH LANDING NDB
-2  54.16894200 -093.56323900    729   399  25    0.0 4M   RED SUCKER LAKE NDB
-2  55.85933100 -092.08596100    289   280  25    0.0 4T   SHAMATTAWA NDB
-2  53.84500000 -094.84944400    773   362  25    0.0 4K   ST THERESA POINT NDB
-2  54.67500000 -115.42444400   3473   251  50    0.0 4O   SWAN HILLS NDB
-4  39.98091100 -075.87781400    660 10850  18     281.662 IMQS 40N  29  ILS-cat-I
-6  39.97729400 -075.86027500    655 10850  10  300281.700 IMQS 40N  29  GS
-7  39.96071900 -075.75077800    660     0   0     281.700 IMQS 40N  29  OM
-13  64.69805600 -110.60916700   1540 11180  50    0.0 4A   KOALA NDB/DME
+13  64.698055556 -110.609166667     1540    11180    40      0.000   4A ENRT CY KOALA DME
+ 2  64.698055556 -110.609166667        0      350    50      0.000   4A ENRT CY KOALA NDB
+ 2  59.421388889 -120.789444444        0      364    25      0.000   4D ENRT CY HELMET NDB
+ 2  54.883333333  -94.800000000        0      314    25      0.000   4J ENRT CY KNEE LAKE NDB
+ 2  54.169091667  -93.563025000        0      399    25      0.000   4M ENRT CY RED SUCKER LAKE NDB
+ 2  54.928713889  -95.282336111        0      386    50      0.000   4N ENRT CY OXFORD HOUSE NDB
+ 2  54.675000000 -115.424444444        0      251    50      0.000   4O ENRT CY SWAN HILLS NDB
+ 2  55.859330556  -92.085961111        0      280    25      0.000   4T ENRT CY SHAMATTAWA NDB
+ 2  56.037500000  -96.515277778        0      391    25      0.000   4W ENRT CY KELSEY NDB
 99
